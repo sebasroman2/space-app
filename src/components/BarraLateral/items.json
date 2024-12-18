@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "titulo": "Inicio",
+        "icono": "home",
+        "activo": true
+    },
+    {
+        "id": 2,
+        "titulo": "Más vistas",
+        "icono": "mas-vistas",
+        "activo": false
+    },
+    {
+        "id": 3,
+        "titulo": "Más Me Gusta",
+        "icono": "me-gusta",
+        "activo": false
+    },
+    {
+        "id": 4,
+        "titulo": "Nuevas",
+        "icono": "nuevas",
+        "activo": false
+    },
+    {
+        "id": 5,
+        "titulo": "Sorprendeme",
+        "icono": "sorprendeme",
+        "activo": false
+    }
+]
